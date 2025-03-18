@@ -3,7 +3,7 @@
 :root {
   --primary-color: #ed3849;
   --primary-color-dark: #d23141;
-  --primary-color-light: #f4e5ec;
+  --primary-color-light: #cae5e8;
   --text-dark: #0f172a;
   --text-light: #64748b;
   --extra-light: #f8fafc;
@@ -166,8 +166,8 @@ nav {
 
 .header__image img {
   position: absolute;
-  left: 50%;
-  bottom: -0.5rem;
+  left: 45%;
+  bottom: -0.7rem;
   transform: translateX(-50%);
   max-width: 460px;
   margin-bottom: 10px;
@@ -300,10 +300,10 @@ nav {
 
 .deals__image img {
   position: absolute;
-  left: 50%;
+  left: 45%;
   bottom: -5rem;
   transform: translateX(-50%);
-  max-width: 550px;
+  max-width: 350px;
 }
 
 .deals__content {

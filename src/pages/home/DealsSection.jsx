@@ -1,5 +1,5 @@
 import React from "react";
-import dealsImg from "../../assets/deals.png";
+import dealsImg from "../../assets/deals-1.png";
 const DealsSection = () => {
   return (
     <section className="section__container deals__container">

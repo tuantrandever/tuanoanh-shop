@@ -1,9 +1,9 @@
 import React from "react";
 
-import category1 from "../../assets/category-1.jpg";
-import category2 from "../../assets/category-2.jpg";
-import category3 from "../../assets/category-3.jpg";
-import category4 from "../../assets/category-4.jpg";
+import category1 from "../../assets/anh-phu-kien.jpg";
+import category2 from "../../assets/vay-2.jpg";
+import category3 from "../../assets/anh-trang-suc.png";
+import category4 from "../../assets/anh-my-pham.jpg";
 import { Link } from "react-router-dom";
 
 const Categories = () => {
